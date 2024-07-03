@@ -1,2 +1,3 @@
-# hello-world
-このリポジトリは GitHub Flow を実行するためのリポジトリです
+# ソフトウェア工学演習
+2024/7/3
+git/github 演習
