@@ -4,12 +4,12 @@ title: "outline"
 permalink: /docs/01outline
 ---
 
-[ホーム](/docs)
-[ソフトウェア工学の概略](/docs/01outline)
-[プロジェクト](/docs/02project)
-[バージョン管理](/docs/03version)
-
 # ソフトウェア工学の概略
+
+- [ホーム](/docs)
+- [ソフトウェア工学の概略](/docs/01outline)
+- [プロジェクト](/docs/02project)
+- [バージョン管理](/docs/03version)
 
 ## ソフトウェア
 情報を扱うプロダクトやその手段
