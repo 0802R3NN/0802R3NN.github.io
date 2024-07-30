@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ソフトウェア工学の概略"
+title: "outline"
 permalink: /docs/01outline
 ---
 

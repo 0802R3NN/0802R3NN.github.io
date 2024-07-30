@@ -10,4 +10,4 @@ title "ソフトウェア工学2024"
 
 git/github演習
 
-[ソフトウェア工学の概略]{/docs/01outline}
+[outline]{/docs/01outline}
