@@ -7,8 +7,8 @@ permalink: /docs/01outline
 # ソフトウェア工学の概略
 
 - [ホーム](/docs)
-- [ソフトウェア工学の概略](/docs/01outline)
-- [プロジェクト](/docs/02project)
+- [ソフトウェア工学の概略(now!!!)](/docs/01outline)
+- [プロジェクトマネジメント](/docs/02project)
 - [バージョン管理](/docs/03version)
 
 ## ソフトウェア
