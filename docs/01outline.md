@@ -74,5 +74,3 @@ permalink: /docs/01outline
 - ソフトウェアの廃止
     - サービス終了
     - リニューアル
-
-
